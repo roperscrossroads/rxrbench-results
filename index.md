@@ -5,18 +5,20 @@ The newest result of each verb of the board exercise, by board type and firmware
 | Verb | nucleo-f767zi / zephyr_mcumgr | heltec-v4 / meshtastic | sparkfun-pro-micro-rp2040 / bare |
 |---|---|---|---|
 | `survey` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
-| `plan` | **No** 2026-11-15 `8105500` | **No** 2026-11-15 `8105500` | **No** 2026-11-15 `8105500` |
+| `plan` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
 | `diag` | Yes 2026-11-15 `8105500` |  |  |
-| `apply` | Yes 2026-11-15 `a4b8113` | Yes 2026-11-15 `062c2f8` | Yes 2026-11-15 `062c2f8` |
-| `update-there-and-back` | Yes 2026-11-15 `a4b8113` | Yes 2026-11-15 `062c2f8` | Yes 2026-11-15 `062c2f8` |
-| `came-back` | Yes 2026-11-15 `a4b8113` | Yes 2026-11-15 `062c2f8` | Yes 2026-11-15 `062c2f8` |
+| `apply` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
+| `update-there-and-back` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
+| `came-back` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
 | `facts` |  | Yes 2026-11-15 `8105500` |  |
 | `secrets` |  | Yes 2026-11-15 `8105500` |  |
-| `backup-regions` |  | **No** 2026-11-15 `8105500` |  |
-| `backup-chip` |  | **No** 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
+| `backup-regions` |  | Yes 2026-11-15 `8105500` |  |
+| `backup-chip` |  | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
 | `keys-export` |  | Yes 2026-11-15 `8105500` |  |
-| `survey-deep` |  | Yes 2026-11-15 `062c2f8` |  |
-| `restore-regions` |  | Yes 2026-11-15 `062c2f8` |  |
-| `snapshot-switch` |  | Yes 2026-11-15 `062c2f8` | Yes 2026-11-15 `062c2f8` |
-| `keys-restore` |  | Yes 2026-11-15 `062c2f8` |  |
-| `erase-chip` |  |  | Yes 2026-11-15 `062c2f8` |
+| `survey-deep` |  | Yes 2026-11-15 `8105500` |  |
+| `restore-regions` |  | Yes 2026-11-15 `8105500` |  |
+| `snapshot-switch` |  | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
+| `keys-restore` |  | Yes 2026-11-15 `8105500` |  |
+| `erase-chip` |  | Yes 2026-11-15 `8105500` | Yes 2026-11-15 `8105500` |
+| `erase-region` |  | Yes 2026-11-15 `8105500` |  |
+| `family-switch` |  | Yes 2026-11-15 `8105500` |  |
