@@ -5,11 +5,11 @@ The newest result of each verb of the board exercise, by board type and firmware
 | Verb | nucleo-f767zi / zephyr_mcumgr | heltec-v4 / meshtastic | sparkfun-pro-micro-rp2040 / bare | raspberrypi-pico2w / zephyr_settings | raspberrypi-picow / zephyr_settings | adafruit-kb2040 / bare |
 |---|---|---|---|---|---|---|
 | `survey` | Yes 2026-11-16 `4b73729` | Yes 2026-11-15 `8105500` | Yes 2026-11-16 `da8bff2` | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `da8bff2` |
-| `plan` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | **No** 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` |
+| `plan` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` |
 | `diag` | Yes 2026-11-16 `4b73729` |  |  | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `4b73729` |  |
 | `apply` | Yes 2026-11-16 `4b73729` | Yes 2026-11-15 `8105500` | Yes 2026-11-16 `da8bff2` | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `da8bff2` |
 | `update-there-and-back` | Yes 2026-11-16 `4b73729` | Yes 2026-11-15 `8105500` | Yes 2026-11-16 `da8bff2` | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `da8bff2` |
-| `came-back` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | **No** 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` |
+| `came-back` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` | Yes 2026-11-17 `4b73729` |
 | `facts` |  | Yes 2026-11-15 `8105500` |  | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `4b73729` |  |
 | `secrets` |  | Yes 2026-11-15 `8105500` |  | Yes 2026-11-16 `4b73729` | Yes 2026-11-16 `4b73729` |  |
 | `backup-regions` |  | Yes 2026-11-15 `8105500` |  | Yes 2026-11-16 `da8bff2` | Yes 2026-11-16 `4b73729` |  |
