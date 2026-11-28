@@ -23,5 +23,5 @@ The newest result of each verb of the board exercise, by board type and firmware
 | `erase-region` |  | Yes 2026-11-18 `1ad5e34` |  | Yes 2026-11-16 `da8bff2` | Yes 2026-11-28 `41497670` |  |
 | `family-switch` |  | Yes 2026-11-18 `1ad5e34` | Yes 2026-11-28 `41497670` |  |  | Yes 2026-11-28 `41497670` |
 | `reboot` | Yes 2026-11-28 `41497670` |  |  | Yes 2026-11-23 `9460b69c` | Yes 2026-11-28 `41497670` |  |
-| `device-test` | Yes 2026-11-28 `41497670` |  |  | **No** 2026-11-28 `41497670` | Yes 2026-11-28 `41497670` |  |
+| `device-test` | Yes 2026-11-28 `41497670` |  |  | Yes 2026-11-28 `41497670` | Yes 2026-11-28 `41497670` |  |
 | `boot` |  |  |  | Yes 2026-11-28 `41497670` |  |  |
